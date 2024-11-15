@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **SQL, Go, C++, PHP, HTML5, CSS**
 
-- 👯 I’m looking to collaborate on **HarvestBot**
-
 - 👨‍💻 All of my projects are available at [https://discord.gg/EnzdF9rR78](https://discord.gg/EnzdF9rR78)
 
 - 📝 I regularly write articles on [https://discord.gg/EnzdF9rR78](https://discord.gg/EnzdF9rR78)
