@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm yqcec</h1>
 <h3 align="center">A passionate frontend developer from New Orleans</h3>
-(img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/8fe81d40-8772-4cf7-a408-6a9edc06d7b0")
+![yeat-handshake-yeat-septembersrich](https://github.com/user-attachments/assets/f2dab8ff-a70d-480d-a542-51cba6f02e15)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yqcec&label=Profile%20views&color=0e75b6&style=flat" alt="yqcec" /> </p>
